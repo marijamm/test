@@ -6,6 +6,7 @@ public class zadacicka {
 		
 		System.out.println("Jas sum srcka");
 		System.out.println("I kate taka misli");
+		System.out.println(" kate e srcka");
 
 	}
 
