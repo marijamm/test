@@ -2,6 +2,7 @@
 public class zadacicka {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		System.out.println("I'm hungry");
 <<<<<<< HEAD
 		System.out.println("promena");
@@ -12,6 +13,11 @@ public class zadacicka {
 		System.out.println(" kate e srcka");
 >>>>>>> thirsty
 
+=======
+		System.out.println("Are you hungry?");
+		System.out.println("yes");
+		
+>>>>>>> 0ffce7ea285d75a02e3a97155f05bfd3825d7955
 	}
 
 }
