@@ -17,6 +17,8 @@ public class zadacicka {
 		System.out.println("Are you hungry?");
 		System.out.println("yes");
 		
+		System.out.println("Pieme vino BACE");
+		
 >>>>>>> 0ffce7ea285d75a02e3a97155f05bfd3825d7955
 	}
 
